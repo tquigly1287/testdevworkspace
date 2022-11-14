@@ -1,6 +1,6 @@
 schemaVersion: 2.1.0
 metadata:
-  name: universal-space
+  name: api-dev-space
 components:
   - name: universal-tooling-container
     container:
